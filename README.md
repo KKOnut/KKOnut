@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Pythpm
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me: no.
-- 😄 Pronouns: no
 - ⚡ Fun fact: i love pizza
 
 <!---
