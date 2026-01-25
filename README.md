@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @KKOnut
-- 👀 I’m interested in art
-- 🌱 I’m currently learning Pythpm
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me: no.
-- ⚡ Fun fact: i love pizza
+# KKONUT
+Informatic student in his 2nd years
 
-<!---
-KKOnut/KKOnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LANGUAGE<br>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
